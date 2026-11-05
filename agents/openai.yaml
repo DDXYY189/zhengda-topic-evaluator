@@ -1,0 +1,6 @@
+interface:
+  display_name: "Zhengda Topic Evaluator"
+  short_description: "正大杯智能选题评审专家"
+  default_prompt: "使用 $zhengda-topic-evaluator 评审我的正大杯候选选题，并分别给出题目竞争力与团队可行性。"
+policy:
+  allow_implicit_invocation: true

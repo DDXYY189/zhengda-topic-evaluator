@@ -1,0 +1,9 @@
+国赛论文/
+local_private_corpus/
+extracted_text/
+audit.json
+tmp/
+__pycache__/
+*.pyc
+*.pdf
+.DS_Store
